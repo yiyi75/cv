@@ -116,14 +116,14 @@ p {
   position: absolute;
   width: 6%;
   right: 490px;
-  top: 100px
+  top: 120px
 }
 
 .cloud2 {
   position: absolute;
   width: 6%;
   left: 490px;
-  top: 250px
+  top: 350px
 }
 
 .mountain {
@@ -305,6 +305,7 @@ p {
 
 .learning-intro {
   margin: 50px auto 10px auto;
+  width: 40%;
 }
 .learning-row {
   width: 50%;
