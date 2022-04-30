@@ -1201,7 +1201,7 @@ input, select, textarea {
 		justify-content: space-between;
 		position: relative;
 		min-height: 100vh;
-		width: 95%;
+		width: 100%;
 		padding: 4rem 2rem;
 		z-index: 3;
 	}
@@ -1222,7 +1222,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#wrapper {
-				padding: 2rem 1rem;
+				padding: 1rem 1rem;
 			}
 
 		}
@@ -1675,6 +1675,7 @@ input, select, textarea {
 }
 
 .project2 {
+	width: 35%;
   float: right;
   margin-left: 30px
 }
@@ -1684,12 +1685,13 @@ input, select, textarea {
 }
 
 .project3 {
+	width: 35%;
   float: left;
   margin-right: 30px
 }
 
 .project4 {
-  width: 25%;
+  width: 30%;
   float: right;
   margin-left: 30px
 }
@@ -1699,7 +1701,7 @@ input, select, textarea {
 }
 
 .project5 {
-  width: 30%;
+  width: 35%;
   float: left;
   margin-right: 30px
 }
@@ -1716,9 +1718,7 @@ input, select, textarea {
 }
 
 .profile {
-	margin-left: auto;
-	margin-right: auto;
-	text-align: center;
+	margin: auto;
 }
 
 .demo-list {
